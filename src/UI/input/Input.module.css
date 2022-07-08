@@ -1,0 +1,9 @@
+.input__default {
+    outline: none;
+    background-color: none;
+    border: 2px solid black;
+    border-radius: 6px;
+    padding: 5px;
+    display: flex;
+    margin-top: 15px;
+}

@@ -1,0 +1,51 @@
+.button {
+    outline: none;
+    color: red;
+    background: none;
+    cursor: pointer;
+    border: 1px red solid;
+    border-radius: 8px;
+    padding: 8px;
+    
+}
+
+.button:hover {
+    background-color: red;
+    color: white;
+}
+
+.log__btn {
+    outline: none;
+    color: green;
+    background: none;
+    cursor: pointer;
+    border: 1px green solid;
+    border-radius: 8px;
+    padding: 8px;
+    margin-top: 15px;
+}
+
+.log__btn:hover {
+    background-color: green;
+    transition: 1s;
+    color: white;
+
+}
+
+.header__exit__btn {
+    outline: none;
+    color: red;
+    background: none;
+    cursor: pointer;
+    border: 1px red solid;
+    border-radius: 8px;
+    padding: 8px;
+    margin-left: 15px;
+}
+
+.header__exit__btn:hover {
+    background-color: red;
+    color: black;
+    transition: 1s;
+}
+
